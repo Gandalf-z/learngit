@@ -1,3 +1,0 @@
-Git is a version control system.
-first time to modify.
-oneGit is free software.
